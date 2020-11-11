@@ -1,0 +1,7 @@
+1. Namma database adalah 'uts'
+
+2. Jalankan perintah migration
+	php artisan migrate
+
+3. Jalankan perintah db seed
+	php artisan db:seed
